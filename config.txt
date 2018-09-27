@@ -1,6 +1,6 @@
-token=NDg4NjU2Mzk0MTgyOTgzNjgz.DnkUIA.H1TtIMFXJON_JyHnT8hxN_8nVUI
+token=NDk0OTAyODU5NjQ1ODQ1NTA0.Do6T-g.xx8Z9FxBIap_paYeyYSjxS1rq9M
 owner=326099411853901824
-prefix=4
-game=Type 4play
+prefix=i
+game=Type iplay
 stayinchannel=true
 songinstatus=true
